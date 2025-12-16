@@ -1,1 +1,0 @@
-curl -O -u 1189223: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  https://download.maxmind.com/geoip/databases/GeoLite2-City/download?suffix=tar.gz
